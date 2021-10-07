@@ -1,0 +1,30 @@
+body{
+    border: 5px solid red;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/9b/The.Matrix.glmatrix.2.png');
+    color:white;
+    text-align:center;
+}
+h1{
+    color:springgreen;
+}
+h3{
+    color:white;
+}
+h4{
+    color:white;
+}
+span{
+    font-size: 18px;
+    margin: 50px;
+}
+.thirdDiv{
+    height: 600px;
+    width: 500px;
+    background:orange;
+    padding: 50px;
+    border:6px dotted;
+    border-color:maroon;
+}
+#picture{
+    width: 400px;
+}
